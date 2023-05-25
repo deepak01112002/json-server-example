@@ -1,4 +1,19 @@
 {
-  "users" : [],
+  "users" : [
+    {
+      "username": "Deepak__pandey007",
+      "email": "deepak8574757609@gmail.com",
+      "password": "12345",
+      "doctor": false,
+      "id": 1
+    },
+    {
+      "username": "Deepak__pandey007",
+      "email": "deepak8574757609@gmail.com",
+      "password": "12345",
+      "doctor": "true",
+      "id": 2
+    }
+  ],
   "appointments" : []
 }
